@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on crypto/stock bots using binance and discord.
+- 🔭 I’m currently working on crypto/stock bots using binance and discord, and expanding my "private-cloud".
 - 🏛️ At work I run an enterprise AWS platform using Python, CDK, Terraform, and much more!
-- 🏘️ At home I run everything on Ubuntu bare metal.
-- 🐍 Proficant in: `Python, Bash, Networking, Terraform, AWS`
-- 🏫 Getting better at: `Go, Javascript, Running a Buissness`
+- 🏘️ At home I run everything on Ubuntu bare metal, or using Digital Ocean.
+- 🐍 Proficant in: `Python, Linux Systems, Terraform, and AWS`
+- 🏫 Getting better at: `Go, Javascript, and Running a Buissness`
 - Tools of the trade:
   - 💻 Thinkpad T480 / 15" Macbook Pro
   - ⌨️ Keychron K6
