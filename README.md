@@ -5,7 +5,7 @@
 - 🏘️ At home I run everything on Ubuntu bare metal, or using Digital Ocean.
 - 🐍 Proficant in: `Python, Linux Systems, Terraform, and AWS`
 - 🏫 Getting better at: `Go, Javascript, and Running a Buissness`
-- Tools of the trade:
+- :wrench: Tools of the trade:
   - 💻 Thinkpad T480 / 15" Macbook Pro
   - ⌨️ Keychron K6
   - 🐭 MX Master III
@@ -13,7 +13,13 @@
   - 🐧 Debian 
   - ☕️ French Press
   - 🌮 Lina's
+- :dollar: My services
+  - [Stock/Crypto prices for the discord sidebar](https://github.com/rssnyder/discord-stock-ticker)
+  - [Ethereum gas price for the discord sidebar](https://github.com/rssnyder/discord-eth-gas-price)
+  - [Number of ethereum token holders for the discord sidebar](https://github.com/rssnyder/discord-eth-token-holders)
+  - [Banano tip bot for discord](https://discord.com/api/oauth2/authorize?client_id=843492628330053653&permissions=2147875904&scope=bot)
+  - [API for getting number of ethereum token holders](https://github.com/rssnyder/eth-token-holders)
 - How to reach me:
-  - 📫 email: `rileysndr@gmail.com`
+  - 📫 email: `in github profile`
   - 🎮 discord: `jonesbooned#1111`
   - 🤵 linkedin: [Riley Snyder](https://www.linkedin.com/in/rileysnyder/)
