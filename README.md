@@ -16,6 +16,7 @@
 - :dollar: My services
   - [Stock/Crypto prices for the discord sidebar](https://github.com/rssnyder/discord-stock-ticker)
   - [Ethereum gas price for the discord sidebar](https://github.com/rssnyder/discord-eth-gas-price)
+  - [Binance Smart Chain gas price for the discord sidebar](https://github.com/rssnyder/discord-bsc-gas-price)
   - [Number of ethereum token holders for the discord sidebar](https://github.com/rssnyder/discord-eth-token-holders)
   - [Banano tip bot for discord](https://discord.com/api/oauth2/authorize?client_id=843492628330053653&permissions=2147875904&scope=bot)
   - [API for getting number of ethereum token holders](https://github.com/rssnyder/eth-token-holders)
