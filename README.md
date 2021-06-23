@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on crypto/stock bots using binance and discord, and expanding my "private-cloud".
+- 🔭 I currently run a discord bot hosting/creation buissness, building financial displays for use in discord servers.
 - 🏛️ At work I run an enterprise AWS platform using Python, CDK, Terraform, and much more!
 - 🏘️ At home I run everything on Ubuntu bare metal, or using Digital Ocean.
 - 🐍 Proficant in: `Python, Linux Systems, Terraform, and AWS`
@@ -13,12 +13,14 @@
   - 🐧 Debian 
   - ☕️ French Press
   - 🌮 Lina's
-- :dollar: My services
+- :dollar: My  current services
   - [Stock/Crypto prices for the discord sidebar](https://github.com/rssnyder/discord-stock-ticker)
   - [Ethereum, Binance Smart Chain, and Polygon gas prices for the discord sidebar](https://github.com/rssnyder/discord-crypto-gas-price)
   - [Number of ethereum token holders for the discord sidebar](https://github.com/rssnyder/discord-eth-token-holders)
   - [Banano tip bot for discord](https://discord.com/api/oauth2/authorize?client_id=843492628330053653&permissions=2147875904&scope=bot)
   - [API for getting number of ethereum token holders](https://github.com/rssnyder/eth-token-holders)
+  - [Managed Grafana instance for visualizing discord server activity](https://github.com/rssnyder/discord-nerd-stats)
+  - Contact me to discuss hosting or building your discord bots!
 - How to reach me:
   - 📫 email: `in github profile`
   - 🎮 discord: `jonesbooned#1111`
