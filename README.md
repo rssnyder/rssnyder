@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I currently run a discord bot hosting/creation buissness, building financial displays for use in discord servers.
-- 🏛️ At work I run an enterprise AWS platform using Python, CDK, Terraform, and much more!
+- 🏛️ During the day I help manage an enterprise AWS platform using Python, CDK, Terraform, and more for a fortune 250 company.
 - 🏘️ At home I run everything on Ubuntu bare metal, or using Digital Ocean.
 - 🐍 Proficant in: `Python, Linux Systems, Terraform, and AWS`
 - 🏫 Getting better at: `Go, Javascript, and Running a Buissness`
