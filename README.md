@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I currently run a discord bot hosting/creation buissness, building financial displays for use in discord servers.
-- 🏛️ During the day I help manage an enterprise AWS platform using Python, CDK, Terraform, and more for a fortune 250 company.
-- 🏘️ At home I run everything on Ubuntu bare metal, or using Digital Ocean.
+- 🏛️ During the day I help manage an enterprise AWS platform using Python, CDK, Terraform, and more for a financial company.
+- 🔭 At night I run a bot hosting service, building financial displays for use in discord servers.
+- 🏘️ For personal projects I run everything on local Ubuntu machines, or using Digital Ocean for paid work.
 - 🐍 Proficant in: `Python, Linux Systems, Terraform, and AWS`
 - 🏫 Getting better at: `Go, Javascript, and Running a Buissness`
 - :wrench: Tools of the trade:
@@ -14,13 +14,9 @@
   - ☕️ French Press
   - 🌮 Lina's
 - :dollar: My  current services
-  - [Stock/Crypto prices for the discord sidebar](https://github.com/rssnyder/discord-stock-ticker)
-  - [Ethereum, Binance Smart Chain, and Polygon gas prices for the discord sidebar](https://github.com/rssnyder/discord-crypto-gas-price)
-  - [Number of ethereum token holders for the discord sidebar](https://github.com/rssnyder/discord-eth-token-holders)
+  - [Stock and Crypto displays for the discord sidebar](https://github.com/rssnyder/discord-stock-ticker)
   - [Banano tip bot for discord](https://discord.com/api/oauth2/authorize?client_id=843492628330053653&permissions=2147875904&scope=bot)
-  - [API for getting number of ethereum token holders](https://github.com/rssnyder/eth-token-holders)
   - [Managed Grafana instance for visualizing discord server activity](https://github.com/rssnyder/discord-nerd-stats)
-  - Contact me to discuss hosting or building your discord bots!
 - How to reach me:
   - 📫 email: `in github profile`
   - 🎮 discord: `jonesbooned#1111`
