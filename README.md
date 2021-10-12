@@ -10,8 +10,8 @@
   - ⌨️ Keychron K6
   - 🐭 MX Master III
   - 📺 Ultrawide
-  - 🐧 Debian 
-  - ☕️ French Press
+  - 🐧 Debian
+  - ☕️ Gaggia Classic Pro
   - 🌮 Lina's
 - :dollar: My  current services
   - [Stock and Crypto displays for the discord sidebar](https://github.com/rssnyder/discord-stock-ticker)
