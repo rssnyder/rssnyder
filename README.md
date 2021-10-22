@@ -15,8 +15,12 @@
   - 🌮 Lina's
 - :dollar: My  current services
   - [Stock and Crypto displays for the discord sidebar](https://github.com/rssnyder/discord-stock-ticker)
-  - [Banano tip bot for discord](https://discord.com/api/oauth2/authorize?client_id=843492628330053653&permissions=2147875904&scope=bot)
   - [Managed Grafana instance for visualizing discord server activity](https://github.com/rssnyder/discord-nerd-stats)
+- Past bot commissions (most commissions are open sourced after completion)
+  - [Bot to raffle off NFTs](https://github.com/rssnyder/rmrk-events)
+  - [Send new posts on website to channel](https://github.com/rssnyder/wilderworld-zines)
+  - [Send tiktok posts to groupme](https://github.com/rssnyder/bones-day)
+  - [Export discord audit logs](https://github.com/rssnyder/discord-auditlog-export)
 - How to reach me:
   - 📫 email: `in github profile`
   - 🎮 discord: `jonesbooned#1111`
