@@ -4,7 +4,7 @@
 - 🔭 At night I run a bot hosting service, building financial displays for use in discord servers.
 - 🏘️ For personal projects I run everything on local Ubuntu machines, or using Digital Ocean for paid work.
 - 🐍 Proficant in: `Python, Linux Systems, Terraform, and AWS`
-- 🏫 Getting better at: `Go, Javascript, and Running a Buissness`
+- 🏫 Getting better at: `Go, Javascript, and Running a business`
 - :wrench: Tools of the trade:
   - 💻 Thinkpad T480 / 15" Macbook Pro
   - ⌨️ Keychron K6
