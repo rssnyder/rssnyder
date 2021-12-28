@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🤔 [See what I am thinking](https://thoughts.rileysnyder.org/)
 - 🏛️ During the day I help manage an enterprise AWS platform using Python, CDK, Terraform, and more for a financial company.
 - 🔭 At night I run a bot hosting service, building financial displays for use in discord servers.
 - 🏘️ For personal projects I run everything on local Ubuntu machines, or using Digital Ocean for paid work.
