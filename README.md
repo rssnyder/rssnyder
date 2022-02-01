@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-- 🤔 [See what I am thinking](https://thoughts.rileysnyder.org/)
-- 🏛️ During the day I manage an enterprise [AWS platform](https://about.gitlab.com/topics/devops/what-is-a-devops-platform-engineer/) using Python, CDK, Terraform, and more for a financial company.
+- 🏛️ During the day I manage an enterprise [AWS platform](https://about.gitlab.com/topics/devops/what-is-a-devops-platform-engineer/) using Python, CDK, Terraform, and more.
 - 🔭 At night I run a bot hosting service, building financial displays for use in discord servers.
-- 🏘️ For personal projects I run everything on local Ubuntu machines, or using Digital Ocean for paid work.
-- 🐍 Proficant in: `Python, Linux Systems, Terraform, and AWS`
-- 🏫 Getting better at: `Go, Javascript, and Running a business`
+- 🐍 My applications usually consist of: `Python/Go/Zsh, Linux/Containers, Terraform/CDK, DigitalOcean/GithubActions/AWS`
 - :wrench: Tools of the trade:
   - 💻 Thinkpad T480 / 15" Macbook Pro
   - ⌨️ Keychron K6
