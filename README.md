@@ -22,5 +22,4 @@
 - How to reach me:
   - 📫 email: `in github profile`
   - 🎮 discord: `jonesbooned#1111`
-  - :iphone: telegram: `@rssnyder`
   - 🤵 linkedin: [Riley Snyder](https://www.linkedin.com/in/rileysnyder/)
