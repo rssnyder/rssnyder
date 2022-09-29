@@ -1,21 +1,8 @@
 ### Hi there 👋
 
-- :wrench: Tools of the trade:
-  - 💻 Thinkpad T480 / 16" Macbook Pro
-  - ⌨️ Keychron K6
-  - 🐭 MX Master III
-  - 📺 Ultrawide
-  - 🐧 Debian
-  - ☕️ Gaggia Classic Pro
-  - 🌮 Lina's
-- :dollar: My  current services
-  - [Stock and Crypto displays for the discord sidebar](https://github.com/rssnyder/discord-stock-ticker)
-- Past bot commissions (most commissions are open sourced after completion)
-  - [Bot to raffle off NFTs](https://github.com/rssnyder/rmrk-events)
-  - [Send new posts on website to channel](https://github.com/rssnyder/wilderworld-zines)
-  - [Send tiktok posts to groupme](https://github.com/rssnyder/bones-day)
-  - [Export discord audit logs](https://github.com/rssnyder/discord-auditlog-export)
-- How to reach me:
+Currently learning: `k8s`
+
+How to reach me:
   - 📫 email: `in github profile`
   - 🎮 discord: `jonesbooned#1111`
   - 🤵 linkedin: [Riley Snyder](https://www.linkedin.com/in/rileysnyder/)
