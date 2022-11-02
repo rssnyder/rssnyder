@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently learning: `k8s`
+Probably busy learning k8s and hosting bots.
 
 How to reach me:
   - 📫 email: `in github profile`
