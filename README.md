@@ -8,6 +8,11 @@ Terraform modules:
 - [aws-harness-delegate-ecs-fargate](https://github.com/rssnyder/terraform-aws-harness-delegate-ecs-fargate): Run a [harness](https://harness.io/) delegate in fargate
 - [aws-harness-ccm](https://github.com/rssnyder/terraform-aws-harness-ccm): Enable [harness ccm](https://harness.io/products/cloud-cost) in aws
 
+Drone plugins:
+- [harness-secret](https://github.com/rssnyder/drone-harness-secret): Store text as a harness secret
+- [github-app](https://github.com/rssnyder/drone-github-app): Generate a GitHub PAT for a GitHub app
+- [harness-go-utils](https://github.com/rssnyder/harness-go-utils): Utilities for building harness plugins
+
 How to reach me:
   - 📫 email: `in github profile`
   - 🎮 discord: `jonesbooned#1111`
